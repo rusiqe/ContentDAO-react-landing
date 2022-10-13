@@ -50,7 +50,7 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
+    title: 'Workflow that just works: Trust the process',
     paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
   };
 
@@ -99,7 +99,13 @@ const FeaturesSplit = ({
                   Traceable Distribution Of Effort
                   </h3>
                 <p className="m-0">
-                  .
+                  You get to know who is doing each of the following: &nbsp;
+                    <b>Research:</b> Gather information on your topic from a variety of sources. &nbsp; 
+                    <b>Plan:</b> Organize your research and decide what points you want to make. &nbsp; 
+                    <b>Outline:</b> Create a detailed outline of your content. &nbsp; 
+                    <b>Draft:</b> Write the first draft of your content. &nbsp; 
+                    <b>Edit/Revise:</b> Review your draft and make changes.  &nbsp;
+                    <b>Publish:</b> Share your content with the world!. &nbsp;
                   </p>
               </div>
               <div className={
