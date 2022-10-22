@@ -18,7 +18,7 @@ const FooterSocial = ({
     >
       <ul className="list-reset">
         <li>
-          <a href="https://discord.gg/zaKrWJyW">
+          <a href="https://discord.gg/A7z6kVyp">
             <svg 
             xmlns="http://www.w3.org/2000/svg" 
             width="16" 
